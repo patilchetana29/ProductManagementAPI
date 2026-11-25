@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CRNproduct management/CRNproduct.Application.csproj" Id="99dd2499-0dbb-4367-bb94-71deecf9da7e" />
+  <Project Path="CRNproduct.Domain/CRNproduct.Domain.csproj" Id="14f443a0-3a8b-4af7-b680-108850b34d7c" />
+  <Project Path="CRNproduct.Infrastructure/CRNproduct.Infrastructure.csproj" Id="0274e6d4-0c66-4c83-bb9c-cc20aa08dc80" />
+  <Project Path="ProductManagementAPI/ProductManagementAPI.csproj" />
+</Solution>
